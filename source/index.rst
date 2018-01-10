@@ -12,11 +12,10 @@ Ethereum Classic Documentation
    :scale: 50 %
    :alt: ethereum-logo
    :align: center
-
-This documentation is the result of an ongoing collaborative effort by
-volunteers from the Ethereum :ref:`community`.  Although it has not been
-authorized by the :ref:`foundation`, we hope you will find it useful,
-and welcome new :ref:`contributors`.
+Welcome, new :ref:`contributors`! This documentation is the result of ongoing 
+collaborative effort by volunteers from the Ethereum Classic :ref:`community`.
+It has not been authorized by the Ethereum :ref:`Foundation` or any other
+centralized authority. We hope you will find it useful. 
 
 
 Contents
